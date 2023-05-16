@@ -6,8 +6,6 @@ const Signup = () => {
 
   const handlesignup =(e)=>{
     e.preventDefault();
-    
-    
 
   }
 
@@ -63,7 +61,7 @@ const Signup = () => {
                 type="number"
                 class="form-control"
                 id="exampleInputPassword1"
-                max={10}
+                
               />
             </div>
             <div class="mb-3">
